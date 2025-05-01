@@ -102,7 +102,7 @@ st.markdown("""
     <footer style="text-align: center; color: gray;">
         Made with ❤️ by Saia Mazaya Fatin.<br>
         This app uses a deep learning model to predict sarcasm. <br>
-        <a href="https://github.com/your-repository" target="_blank">GitHub Repository</a>
+        <a href="https://github.com/SaiaMazayaFatin/Sarcasm-Detection-Using-Transformer-Encoder" target="_blank">GitHub Repository</a>
     </footer>
 """, unsafe_allow_html=True)
 
